@@ -1,0 +1,32 @@
+nav{
+    background-color: rgb(247, 242, 242);
+    height: 50px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+
+}
+nav ul{
+display: block;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    font-size: 20px;
+    font-weight: lighter;
+    margin-right: 20px;
+    color: #888;
+    padding: 5px;
+    text-decoration: none;
+}
+
+nav ul li :hover {
+   text-decoration: none;
+
+  }
+  a{
+    text-decoration: none;
+  }
+  a:visited{
+      text-decoration: none;
+  }
+ 

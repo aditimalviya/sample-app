@@ -1,0 +1,22 @@
+
+button{
+    background-color: darkgray;
+}
+.login-form-container {
+    position: relative;
+    height: 100vh;
+}
+
+.center-page {
+    position: absolute;
+    min-width: 400px;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+}
+#login-btn{
+    padding-right: 5%;
+}
+#signup-btn{
+    padding-left: 5%;
+}
